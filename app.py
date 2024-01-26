@@ -2,7 +2,6 @@
 # 1. Library imports
 import uvicorn
 from fastapi import FastAPI
-from InputData import InputData 
 import numpy as np
 import pickle
 import pandas as pd
